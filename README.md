@@ -1,1 +1,8 @@
-# music-streaming api using django - postgresql for database and java for networking
+music-streaming api 
+
+  Tech stack      
+
+django (python) 
+postgresql for database
+java for networking
+redis as a caching Database 
